@@ -1,2 +1,2 @@
-# matomo-mysql
-Matomo and MySQL into one Docker image
+# Matomo-MySQL
+Matomo (Piwik) is an analytic engine which we are going to use into our project (Cloud SFA). It requires MySQL to run Matomo. This repository prepares docker image to bundle Matomo and MySQL into one docker image.
